@@ -56,3 +56,6 @@ Glisse une image dans la vue 3D : elle est alignée sur la vue, renommée, rang�
 ## Limites connues
 - L'alignement automatique utilise la dernière vue 3D affichée si plusieurs vues sont ouvertes.
 - L'écartement en direct ne concerne que les images orientées dans l'une des six vues standards.
+
+- ## Auteur
+- nonodev38
